@@ -28,14 +28,14 @@ cd password-generator
 
 ### Lancer l'outil
 ```bash
-python passwordGenerator.py
+py passwordGenerator.py
 ```
 
 ### Exemple d'utilisation
 ```
 Entrez la longueur du mot de passe : 16
 Your password is: 4&kL9#pQ2!mN5@xR
-Force : [██████████] 100% - PUISSANT 🟢
+Force : [██████████] 4/4
 ```
 
 ## 🔒 Sécurité
@@ -53,5 +53,5 @@ MIT License
 
 ## 👤 Auteur
 
-**[Ton Nom]**  
-GitHub: [@ton-pseudo](https://github.com/ton-pseudo)
+**Enzo Abdi**  
+GitHub: [@zoaavela](https://github.com/zoaavela)
